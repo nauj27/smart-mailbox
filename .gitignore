@@ -1,0 +1,4 @@
+.micropythonrc
+.vscode
+__pycache__
+secrets.py
